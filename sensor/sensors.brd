@@ -107,9 +107,8 @@
 <wire x1="38.405" y1="0" x2="38.405" y2="31.74" width="0" layer="20"/>
 <wire x1="38.405" y1="31.74" x2="0" y2="31.74" width="0" layer="20"/>
 <wire x1="0" y1="31.74" x2="0" y2="0" width="0" layer="20"/>
-<text x="11.43" y="22.225" size="1.778" layer="21">Sensor (2015)</text>
+<text x="11.43" y="22.225" size="1.778" layer="21">Sensor (2016)</text>
 <text x="15.875" y="20.32" size="0.8128" layer="21">Rumman Waqar</text>
-<text x="15.875" y="19.05" size="0.8128" layer="21">Umair Hussain</text>
 </plain>
 <libraries>
 <library name="SparkFun">
